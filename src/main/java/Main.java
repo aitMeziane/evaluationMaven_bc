@@ -1,5 +1,4 @@
 public class Main {
-
     public static void main(String[] args) {
         Etudiant etudiant1 = new Etudiant("Tourman", "Benjamin", "2 rue Fénélon", 1996);
         System.out.println("Etudiant n°1 :");
